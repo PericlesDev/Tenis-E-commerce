@@ -1,5 +1,6 @@
-# Tenis-E-commerce
-Desenvolvido rotação de tênis que manipula imagens para agregar: "tamanho ou estilo", dependente ao gosto pessoal.
+# Javascript & Grassmorphism
+
+>  *Rotação de tênis que manipula imagens e apresenta modelos diferentes dependendo do click.*
 
 <h3>Layout do Projeto</h3>
 
